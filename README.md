@@ -1,1 +1,1 @@
-hr-gateway-service
+hr-discoveryservice
